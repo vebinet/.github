@@ -10,4 +10,4 @@ At Media Scope Group, we know the importance of open source, fair-code and sourc
 
 If you don't sign a contributor agreement, the below Contributor License Agreement applies:
 
-By contributing, You give Media Scope Group OÜ ("Us") permission to license your contributions on any terms we like. You are giving Us this license in order to make it possible for Us to accept your contributions into Media Scope Group OÜ project.
+By contributing, You give Media Scope Group OÜ ("Us") permission to license your contributions on any terms we like. You are giving Us this license in order to make it possible for Us to accept your contributions into Media Scope Group OÜ projects.
