@@ -15,6 +15,7 @@ Projects we care about:
 * Openverse
 * TwentyTwentyTwo
 * OpenShot
+* Snap Store Desktop client
 
 **Contributor agreements**
 
