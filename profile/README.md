@@ -14,6 +14,7 @@ Projects we care about:
 * BuddyPress
 * Openverse
 * TwentyTwentyTwo
+* OpenShot
 
 **Contributor agreements**
 
