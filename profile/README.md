@@ -16,6 +16,7 @@ Projects we care about:
 * TwentyTwentyTwo
 * OpenShot
 * Snap Store Desktop client
+* Linux Mint
 
 **Contributor agreements**
 
