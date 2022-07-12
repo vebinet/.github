@@ -6,8 +6,6 @@ Media Scope Group and its affiliates contributes to open source and source-avail
 
 **Media Scope Group 💖 Open Source**
 
-We proudly give back.
-
 At Media Scope Group, we believe that companies can and should give back to community. This is why our employees are engaged in contributing to open source and communities. We proudly give back and encourage anyone, including our partners, to do the same.
 
 Projects we care about:
