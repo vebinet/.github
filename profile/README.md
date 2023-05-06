@@ -28,4 +28,4 @@ By contributing, You give Media Scope Group OÜ ("Us") permission to license you
 
 **Community Code of Conduct**
 
-By contibuting, You accept to adhere to our Community Code of Conduct. To find more information, please [click here](https://mediascope.group/legal/community-code-conduct/)
+By contibuting, You accept to adhere to our Community Code of Conduct. To find more information, please [click here](https://mediascope.group/legal/community-code-of-conduct/)
