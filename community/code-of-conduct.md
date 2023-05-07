@@ -1,5 +1,5 @@
 # Community Code of Conduct
-Media Scope Group and its community are committed to creating a safe, respectful, and inclusive community for all members. To achieve this goal, we ask all members of our community to adhere to the following Code of Conduct:
+Vebinet and its community are committed to creating a safe, respectful, and inclusive community for all members. To achieve this goal, we ask all members of our community to adhere to the following Code of Conduct:
 
 **Respect others**
 
@@ -39,7 +39,6 @@ Follow all applicable laws, rules, and regulations. Do not engage in any illegal
 
 By adhering to this Code of Conduct, we can create a positive and supportive community where everyone can thrive and succeed.
 
-## License
-© 2023 Media Scope Group OÜ
+## Authors
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://mediascope.group/legal/community-code-of-conduct">Community Code of Conduct</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://mediascope.group">Media Scope Group OÜ</a> is licensed under <a href="https://mediascope.group/legal/cc-intl-public-license?ref=github-CodeOfConduct" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International Public License<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Adapted from <a property="dct:title" rel="cc:attributionURL" href="https://mediascope.group/legal/community-code-of-conduct">Community Code of Conduct</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://mediascope.group">Media Scope Group OÜ</a> is licensed under <a href="https://mediascope.group/legal/cc-intl-public-license?ref=github-CodeOfConduct" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International Public License<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"></a></p>
